@@ -2,9 +2,9 @@
    abstract class Conn
     {
         public string $db ="mysql"; // tipo de banco
-        public string $host ="db4free.net"; // nome do host no caso local
-        public string $user="adv12345"; // padrão
-        public string $password="adv12345"; // padrão
+        public string $host ="#####"; // nome do host no caso local
+        public string $user="#####"; // padrão
+        public string $password="#####"; // padrão
         public string $dbname="eletrotech";
         public int $port=3306;
         public object $connect;
